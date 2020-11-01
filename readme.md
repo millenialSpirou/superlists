@@ -3,12 +3,18 @@ x don't save blank items for every request
 x display multiple items in the table
 x clean up after functional test runs
 
-# support more than one list!
+x support more than one list!
 
-## adjust model so that items are associated with different lists
+x adjust model so that items are associated with different lists
 
-## add unique url for each list
+x add unique url for each list
 
 x add a url for creating a new list via POST
 
-## add a URL for adding a new item to an existing list via POST
+x add a URL for adding a new item to an existing list via POST
+
+x refactor away some duplication in urls.py
+
+# prettify
+## a nice large input field for adding new and existing lists
+## a large attention centered grabbing box to put it in

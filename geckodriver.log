@@ -483,3 +483,1159 @@ console.warn: SearchSettings: "get: No settings file exists, new profile?" (new 
 JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
 Gtk-Message: 23:18:24.891: Failed to load module "colorreload-gtk-module"
 1604186315067	Marionette	INFO	Stopped listening on port 40039
+Gtk-Message: 23:53:22.177: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 23:53:22.617: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 23:53:22.695: Failed to load module "colorreload-gtk-module"
+
+(firefox:241339): dbind-WARNING **: 23:53:22.715: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604188403173	Marionette	INFO	Listening on port 34319
+1604188403234	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 23:53:23.630: Failed to load module "colorreload-gtk-module"
+1604188403989	Marionette	INFO	Stopped listening on port 34319
+Gtk-Message: 23:53:25.480: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 23:53:25.913: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 23:53:25.990: Failed to load module "colorreload-gtk-module"
+
+(firefox:241645): dbind-WARNING **: 23:53:26.008: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604188406495	Marionette	INFO	Listening on port 44443
+1604188406527	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 23:53:26.934: Failed to load module "colorreload-gtk-module"
+1604188407161	Marionette	INFO	Stopped listening on port 44443
+Gtk-Message: 23:53:28.600: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 23:53:29.059: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 23:53:29.150: Failed to load module "colorreload-gtk-module"
+
+(firefox:241918): dbind-WARNING **: 23:53:29.175: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604188409630	Marionette	INFO	Listening on port 36435
+1604188409663	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 23:53:30.067: Failed to load module "colorreload-gtk-module"
+1604188420098	Marionette	INFO	Stopped listening on port 36435
+Gtk-Message: 00:11:23.154: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 00:11:23.591: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 00:11:23.666: Failed to load module "colorreload-gtk-module"
+
+(firefox:243291): dbind-WARNING **: 00:11:23.684: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604189484125	Marionette	INFO	Listening on port 36209
+1604189484226	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 00:11:24.608: Failed to load module "colorreload-gtk-module"
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 697))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+1604189495136	Marionette	INFO	Stopped listening on port 36209
+Gtk-Message: 00:11:38.155: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 00:11:38.628: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 00:11:38.699: Failed to load module "colorreload-gtk-module"
+
+(firefox:243594): dbind-WARNING **: 00:11:38.724: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604189499143	Marionette	INFO	Listening on port 37549
+1604189499221	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 00:11:39.625: Failed to load module "colorreload-gtk-module"
+1604189499889	Marionette	INFO	Stopped listening on port 37549
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+Gtk-Message: 00:11:43.259: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 00:11:43.686: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 00:11:43.783: Failed to load module "colorreload-gtk-module"
+
+(firefox:243899): dbind-WARNING **: 00:11:43.784: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604189504292	Marionette	INFO	Listening on port 34185
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1604189504328	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 00:11:44.704: Failed to load module "colorreload-gtk-module"
+1604189504963	Marionette	INFO	Stopped listening on port 34185
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+Gtk-Message: 00:39:47.492: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 00:39:47.934: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 00:39:48.024: Failed to load module "colorreload-gtk-module"
+
+(firefox:246142): dbind-WARNING **: 00:39:48.030: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604191188525	Marionette	INFO	Listening on port 42735
+1604191188641	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 00:39:48.944: Failed to load module "colorreload-gtk-module"
+1604191189845	Marionette	INFO	Stopped listening on port 42735
+Gtk-Message: 00:39:51.250: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 00:39:51.745: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 00:39:51.852: Failed to load module "colorreload-gtk-module"
+
+(firefox:246441): dbind-WARNING **: 00:39:51.861: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604191192389	Marionette	INFO	Listening on port 45305
+1604191192495	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 00:39:52.754: Failed to load module "colorreload-gtk-module"
+1604191193119	Marionette	INFO	Stopped listening on port 45305
+Gtk-Message: 00:39:54.582: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 00:39:55.019: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 00:39:55.099: Failed to load module "colorreload-gtk-module"
+
+(firefox:246756): dbind-WARNING **: 00:39:55.120: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604191195667	Marionette	INFO	Listening on port 45833
+1604191195739	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 00:39:56.029: Failed to load module "colorreload-gtk-module"
+1604191196384	Marionette	INFO	Stopped listening on port 45833
+Gtk-Message: 00:40:32.909: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 00:40:33.351: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 00:40:33.439: Failed to load module "colorreload-gtk-module"
+
+(firefox:247146): dbind-WARNING **: 00:40:33.455: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604191234018	Marionette	INFO	Listening on port 46357
+1604191234042	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 00:40:34.354: Failed to load module "colorreload-gtk-module"
+1604191235230	Marionette	INFO	Stopped listening on port 46357
+Gtk-Message: 00:40:47.964: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 00:40:48.408: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 00:40:48.511: Failed to load module "colorreload-gtk-module"
+
+(firefox:247492): dbind-WARNING **: 00:40:48.523: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604191249045	Marionette	INFO	Listening on port 38573
+1604191249173	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 00:40:49.422: Failed to load module "colorreload-gtk-module"
+1604191250407	Marionette	INFO	Stopped listening on port 38573
+Gtk-Message: 00:40:51.879: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 00:40:52.332: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 00:40:52.426: Failed to load module "colorreload-gtk-module"
+
+(firefox:247795): dbind-WARNING **: 00:40:52.441: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604191252980	Marionette	INFO	Listening on port 46195
+1604191253038	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 00:40:53.346: Failed to load module "colorreload-gtk-module"
+1604191253667	Marionette	INFO	Stopped listening on port 46195
+Gtk-Message: 00:40:55.114: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 00:40:55.553: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 00:40:55.634: Failed to load module "colorreload-gtk-module"
+
+(firefox:248098): dbind-WARNING **: 00:40:55.660: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604191256152	Marionette	INFO	Listening on port 41047
+1604191256173	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 00:40:56.560: Failed to load module "colorreload-gtk-module"
+1604191256868	Marionette	INFO	Stopped listening on port 41047
+Gtk-Message: 05:35:45.926: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:35:46.361: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:35:46.447: Failed to load module "colorreload-gtk-module"
+
+(firefox:251065): dbind-WARNING **: 05:35:46.457: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604208946925	Marionette	INFO	Listening on port 41761
+1604208946982	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 05:35:47.383: Failed to load module "colorreload-gtk-module"
+1604208948186	Marionette	INFO	Stopped listening on port 41761
+Gtk-Message: 05:35:49.672: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:35:50.114: Failed to load module "colorreload-gtk-module"
+
+(firefox:251361): dbind-WARNING **: 05:35:50.216: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+Gtk-Message: 05:35:50.216: Failed to load module "colorreload-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604208950714	Marionette	INFO	Listening on port 37967
+1604208950832	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 05:35:51.124: Failed to load module "colorreload-gtk-module"
+1604208951446	Marionette	INFO	Stopped listening on port 37967
+Gtk-Message: 05:35:52.884: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:35:53.329: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:35:53.401: Failed to load module "colorreload-gtk-module"
+
+(firefox:251645): dbind-WARNING **: 05:35:53.421: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604208953922	Marionette	INFO	Listening on port 38857
+1604208953949	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 05:35:54.329: Failed to load module "colorreload-gtk-module"
+1604208954605	Marionette	INFO	Stopped listening on port 38857
+Gtk-Message: 05:38:59.875: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:39:00.332: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:39:00.404: Failed to load module "colorreload-gtk-module"
+
+(firefox:252271): dbind-WARNING **: 05:39:00.425: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604209140942	Marionette	INFO	Listening on port 38825
+1604209141039	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 05:39:01.345: Failed to load module "colorreload-gtk-module"
+1604209142260	Marionette	INFO	Stopped listening on port 38825
+Gtk-Message: 05:39:03.728: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:39:04.165: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:39:04.258: Failed to load module "colorreload-gtk-module"
+
+(firefox:252568): dbind-WARNING **: 05:39:04.266: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604209144730	Marionette	INFO	Listening on port 46263
+1604209144787	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 05:39:05.171: Failed to load module "colorreload-gtk-module"
+1604209145436	Marionette	INFO	Stopped listening on port 46263
+Gtk-Message: 05:39:06.886: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:39:07.320: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:39:07.399: Failed to load module "colorreload-gtk-module"
+
+(firefox:252875): dbind-WARNING **: 05:39:07.416: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604209147926	Marionette	INFO	Listening on port 39821
+1604209147955	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 05:39:08.326: Failed to load module "colorreload-gtk-module"
+1604209148593	Marionette	INFO	Stopped listening on port 39821
+Gtk-Message: 05:40:36.691: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:40:37.131: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:40:37.220: Failed to load module "colorreload-gtk-module"
+
+(firefox:253431): dbind-WARNING **: 05:40:37.239: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604209237806	Marionette	INFO	Listening on port 36173
+1604209237846	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 05:40:38.159: Failed to load module "colorreload-gtk-module"
+1604209239041	Marionette	INFO	Stopped listening on port 36173
+Gtk-Message: 05:40:40.507: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:40:40.958: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:40:41.044: Failed to load module "colorreload-gtk-module"
+
+(firefox:253736): dbind-WARNING **: 05:40:41.049: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604209241549	Marionette	INFO	Listening on port 42935
+1604209241567	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 05:40:41.956: Failed to load module "colorreload-gtk-module"
+1604209242222	Marionette	INFO	Stopped listening on port 42935
+Gtk-Message: 05:40:43.676: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:51:46.190: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:51:46.624: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:51:46.701: Failed to load module "colorreload-gtk-module"
+
+(firefox:254687): dbind-WARNING **: 05:51:46.724: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604209907172	Marionette	INFO	Listening on port 44373
+1604209907260	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 05:51:47.630: Failed to load module "colorreload-gtk-module"
+1604209908494	Marionette	INFO	Stopped listening on port 44373
+Gtk-Message: 05:51:49.983: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:51:50.433: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:51:50.518: Failed to load module "colorreload-gtk-module"
+
+(firefox:254995): dbind-WARNING **: 05:51:50.523: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604209911030	Marionette	INFO	Listening on port 36719
+1604209911115	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604209911218	Marionette	INFO	Stopped listening on port 36719
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+Gtk-Message: 05:51:52.670: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:51:53.107: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:51:53.191: Failed to load module "colorreload-gtk-module"
+
+(firefox:255266): dbind-WARNING **: 05:51:53.205: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604209913698	Marionette	INFO	Listening on port 43027
+1604209913743	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 05:51:54.114: Failed to load module "colorreload-gtk-module"
+1604209914385	Marionette	INFO	Stopped listening on port 43027
+Gtk-Message: 05:51:55.831: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:51:56.264: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:51:56.339: Failed to load module "colorreload-gtk-module"
+
+(firefox:255555): dbind-WARNING **: 05:51:56.359: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604209916869	Marionette	INFO	Listening on port 44903
+1604209916898	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 05:51:57.269: Failed to load module "colorreload-gtk-module"
+1604209917538	Marionette	INFO	Stopped listening on port 44903
+Gtk-Message: 05:53:25.751: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:53:26.206: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:53:26.285: Failed to load module "colorreload-gtk-module"
+
+(firefox:255969): dbind-WARNING **: 05:53:26.309: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604210006867	Marionette	INFO	Listening on port 34469
+1604210006927	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 05:53:27.237: Failed to load module "colorreload-gtk-module"
+1604210008149	Marionette	INFO	Stopped listening on port 34469
+Gtk-Message: 05:53:29.619: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:53:30.079: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:53:30.148: Failed to load module "colorreload-gtk-module"
+
+(firefox:256273): dbind-WARNING **: 05:53:30.166: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604210010689	Marionette	INFO	Listening on port 34903
+1604210010789	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604210010900	Marionette	INFO	Stopped listening on port 34903
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+Gtk-Message: 05:53:32.359: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:53:32.800: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:53:32.891: Failed to load module "colorreload-gtk-module"
+
+(firefox:256539): dbind-WARNING **: 05:53:32.900: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604210013400	Marionette	INFO	Listening on port 42699
+1604210013418	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 05:53:33.807: Failed to load module "colorreload-gtk-module"
+1604210014068	Marionette	INFO	Stopped listening on port 42699
+Gtk-Message: 05:53:35.537: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:53:36.019: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:53:36.094: Failed to load module "colorreload-gtk-module"
+
+(firefox:256832): dbind-WARNING **: 05:53:36.103: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604210016620	Marionette	INFO	Listening on port 35757
+1604210016695	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 05:53:37.024: Failed to load module "colorreload-gtk-module"
+1604210017332	Marionette	INFO	Stopped listening on port 35757
+Gtk-Message: 05:55:07.877: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:55:08.335: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:55:08.427: Failed to load module "colorreload-gtk-module"
+
+(firefox:257290): dbind-WARNING **: 05:55:08.432: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604210108922	Marionette	INFO	Listening on port 39735
+1604210109031	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 05:55:09.354: Failed to load module "colorreload-gtk-module"
+1604210110259	Marionette	INFO	Stopped listening on port 39735
+Gtk-Message: 05:55:11.715: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:55:12.161: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:55:12.239: Failed to load module "colorreload-gtk-module"
+
+(firefox:257585): dbind-WARNING **: 05:55:12.252: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604210112791	Marionette	INFO	Listening on port 37279
+1604210112878	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604210112986	Marionette	INFO	Stopped listening on port 37279
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+Gtk-Message: 05:55:14.448: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:55:14.885: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:55:14.974: Failed to load module "colorreload-gtk-module"
+
+(firefox:257840): dbind-WARNING **: 05:55:14.988: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604210115524	Marionette	INFO	Listening on port 40497
+1604210115618	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 05:55:15.903: Failed to load module "colorreload-gtk-module"
+1604210116274	Marionette	INFO	Stopped listening on port 40497
+Gtk-Message: 05:55:17.729: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:55:18.190: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:55:18.277: Failed to load module "colorreload-gtk-module"
+
+(firefox:258130): dbind-WARNING **: 05:55:18.293: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604210118789	Marionette	INFO	Listening on port 37745
+1604210118898	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 05:55:19.205: Failed to load module "colorreload-gtk-module"
+1604210119529	Marionette	INFO	Stopped listening on port 37745
+Gtk-Message: 05:56:02.931: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:56:03.377: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:56:03.454: Failed to load module "colorreload-gtk-module"
+
+(firefox:258563): dbind-WARNING **: 05:56:03.476: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604210163923	Marionette	INFO	Listening on port 43217
+1604210164003	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 05:56:04.386: Failed to load module "colorreload-gtk-module"
+1604210165228	Marionette	INFO	Stopped listening on port 43217
+Gtk-Message: 05:56:06.694: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:56:07.135: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:56:07.236: Failed to load module "colorreload-gtk-module"
+
+(firefox:258853): dbind-WARNING **: 05:56:07.242: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604210167759	Marionette	INFO	Listening on port 44647
+1604210167855	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604210167956	Marionette	INFO	Stopped listening on port 44647
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+Gtk-Message: 05:56:09.416: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:56:09.852: Failed to load module "colorreload-gtk-module"
+
+(firefox:259127): dbind-WARNING **: 05:56:09.964: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+Gtk-Message: 05:56:09.967: Failed to load module "colorreload-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604210170558	Marionette	INFO	Listening on port 45485
+1604210170582	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 05:56:10.866: Failed to load module "colorreload-gtk-module"
+1604210171225	Marionette	INFO	Stopped listening on port 45485
+Gtk-Message: 05:56:12.678: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:56:13.126: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:56:13.191: Failed to load module "colorreload-gtk-module"
+
+(firefox:259437): dbind-WARNING **: 05:56:13.212: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604210173750	Marionette	INFO	Listening on port 35625
+1604210173847	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 05:56:14.138: Failed to load module "colorreload-gtk-module"
+1604210174482	Marionette	INFO	Stopped listening on port 35625
+Gtk-Message: 05:58:21.277: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:58:21.727: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:58:21.804: Failed to load module "colorreload-gtk-module"
+
+(firefox:259836): dbind-WARNING **: 05:58:21.828: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604210302351	Marionette	INFO	Listening on port 35417
+1604210302437	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 05:58:22.742: Failed to load module "colorreload-gtk-module"
+1604210303636	Marionette	INFO	Stopped listening on port 35417
+Gtk-Message: 05:58:25.111: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:58:25.553: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:58:25.636: Failed to load module "colorreload-gtk-module"
+
+(firefox:260183): dbind-WARNING **: 05:58:25.662: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604210306123	Marionette	INFO	Listening on port 32919
+1604210306162	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 05:58:26.560: Failed to load module "colorreload-gtk-module"
+1604210306835	Marionette	INFO	Stopped listening on port 32919
+Gtk-Message: 05:58:28.311: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:58:28.770: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:58:28.867: Failed to load module "colorreload-gtk-module"
+
+(firefox:260470): dbind-WARNING **: 05:58:28.870: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604210309340	Marionette	INFO	Listening on port 41035
+1604210309383	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 05:58:29.799: Failed to load module "colorreload-gtk-module"
+1604210310050	Marionette	INFO	Stopped listening on port 41035
+Gtk-Message: 05:58:31.490: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:58:31.944: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 05:58:32.032: Failed to load module "colorreload-gtk-module"
+
+(firefox:260771): dbind-WARNING **: 05:58:32.037: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604210312594	Marionette	INFO	Listening on port 33479
+1604210312651	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 05:58:32.951: Failed to load module "colorreload-gtk-module"
+1604210313299	Marionette	INFO	Stopped listening on port 33479
+Gtk-Message: 06:08:21.691: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:08:22.149: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:08:22.236: Failed to load module "colorreload-gtk-module"
+
+(firefox:261662): dbind-WARNING **: 06:08:22.239: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604210902724	Marionette	INFO	Listening on port 46627
+1604210902748	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 06:08:23.144: Failed to load module "colorreload-gtk-module"
+1604210913676	Marionette	INFO	Stopped listening on port 46627
+Gtk-Message: 06:08:35.157: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:08:35.619: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:08:35.712: Failed to load module "colorreload-gtk-module"
+
+(firefox:261982): dbind-WARNING **: 06:08:35.734: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604210916258	Marionette	INFO	Listening on port 33383
+1604210916305	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604210916435	Marionette	INFO	Stopped listening on port 33383
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+Gtk-Message: 06:08:37.913: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:08:38.340: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:08:38.433: Failed to load module "colorreload-gtk-module"
+
+(firefox:262275): dbind-WARNING **: 06:08:38.444: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604210918963	Marionette	INFO	Listening on port 34799
+1604210919077	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 06:08:39.367: Failed to load module "colorreload-gtk-module"
+1604210919722	Marionette	INFO	Stopped listening on port 34799
+Gtk-Message: 06:08:41.217: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:08:41.658: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:08:41.739: Failed to load module "colorreload-gtk-module"
+
+(firefox:262582): dbind-WARNING **: 06:08:41.755: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604210922363	Marionette	INFO	Listening on port 42281
+1604210922470	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 06:08:42.666: Failed to load module "colorreload-gtk-module"
+1604210923119	Marionette	INFO	Stopped listening on port 42281
+Gtk-Message: 06:17:05.071: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:17:05.528: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:17:05.610: Failed to load module "colorreload-gtk-module"
+
+(firefox:263029): dbind-WARNING **: 06:17:05.623: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604211426078	Marionette	INFO	Listening on port 38385
+1604211426142	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1604211426236	Marionette	INFO	Stopped listening on port 38385
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+Gtk-Message: 06:17:07.700: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:17:08.147: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:17:08.236: Failed to load module "colorreload-gtk-module"
+
+(firefox:263292): dbind-WARNING **: 06:17:08.241: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604211428788	Marionette	INFO	Listening on port 45725
+1604211428866	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604211428971	Marionette	INFO	Stopped listening on port 45725
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+Gtk-Message: 06:17:10.437: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:17:10.878: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:17:10.961: Failed to load module "colorreload-gtk-module"
+
+(firefox:263570): dbind-WARNING **: 06:17:10.974: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604211431482	Marionette	INFO	Listening on port 39655
+1604211431502	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604211431601	Marionette	INFO	Stopped listening on port 39655
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+Gtk-Message: 06:18:08.252: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:18:08.690: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:18:08.768: Failed to load module "colorreload-gtk-module"
+
+(firefox:263907): dbind-WARNING **: 06:18:08.789: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604211489271	Marionette	INFO	Listening on port 36821
+1604211489323	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604211489421	Marionette	INFO	Stopped listening on port 36821
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+Gtk-Message: 06:18:10.868: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:18:11.304: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:18:11.390: Failed to load module "colorreload-gtk-module"
+
+(firefox:264176): dbind-WARNING **: 06:18:11.405: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604211491837	Marionette	INFO	Listening on port 35149
+1604211491943	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1604211492075	Marionette	INFO	Stopped listening on port 35149
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+Gtk-Message: 06:18:13.557: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:18:14.005: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:18:14.081: Failed to load module "colorreload-gtk-module"
+
+(firefox:264434): dbind-WARNING **: 06:18:14.101: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604211494574	Marionette	INFO	Listening on port 33623
+1604211494618	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604211494711	Marionette	INFO	Stopped listening on port 33623
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+Gtk-Message: 06:20:44.412: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:20:44.860: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:20:44.939: Failed to load module "colorreload-gtk-module"
+
+(firefox:264753): dbind-WARNING **: 06:20:44.946: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604211645423	Marionette	INFO	Listening on port 37495
+1604211645467	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604211645546	Marionette	INFO	Stopped listening on port 37495
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+Gtk-Message: 06:20:47.021: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:20:47.485: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:20:47.550: Failed to load module "colorreload-gtk-module"
+
+(firefox:265006): dbind-WARNING **: 06:20:47.574: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604211648026	Marionette	INFO	Listening on port 43351
+1604211648083	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1604211648180	Marionette	INFO	Stopped listening on port 43351
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+Gtk-Message: 06:20:49.664: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:20:50.115: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:20:50.198: Failed to load module "colorreload-gtk-module"
+
+(firefox:265256): dbind-WARNING **: 06:20:50.214: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604211650687	Marionette	INFO	Listening on port 35649
+1604211650715	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+1604211650815	Marionette	INFO	Stopped listening on port 35649
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+Gtk-Message: 06:22:32.109: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:22:32.548: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:22:32.628: Failed to load module "colorreload-gtk-module"
+
+(firefox:265791): dbind-WARNING **: 06:22:32.651: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604211753134	Marionette	INFO	Listening on port 36001
+1604211753185	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 06:22:33.557: Failed to load module "colorreload-gtk-module"
+1604211764128	Marionette	INFO	Stopped listening on port 36001
+Gtk-Message: 06:22:45.590: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:22:46.035: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:22:46.115: Failed to load module "colorreload-gtk-module"
+
+(firefox:266100): dbind-WARNING **: 06:22:46.136: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604211766689	Marionette	INFO	Listening on port 37097
+1604211766762	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604211766864	Marionette	INFO	Stopped listening on port 37097
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+Gtk-Message: 06:22:48.366: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:22:48.811: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:22:48.907: Failed to load module "colorreload-gtk-module"
+
+(firefox:266377): dbind-WARNING **: 06:22:48.921: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604211769374	Marionette	INFO	Listening on port 41969
+1604211769408	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 06:22:49.834: Failed to load module "colorreload-gtk-module"
+1604211770061	Marionette	INFO	Stopped listening on port 41969
+Gtk-Message: 06:22:51.521: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:22:52.022: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:22:52.108: Failed to load module "colorreload-gtk-module"
+
+(firefox:266673): dbind-WARNING **: 06:22:52.126: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604211772581	Marionette	INFO	Listening on port 41965
+1604211772674	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 06:22:53.043: Failed to load module "colorreload-gtk-module"
+1604211773334	Marionette	INFO	Stopped listening on port 41965
+Gtk-Message: 06:24:00.433: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:24:00.865: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:24:00.941: Failed to load module "colorreload-gtk-module"
+
+(firefox:267028): dbind-WARNING **: 06:24:00.964: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604211841469	Marionette	INFO	Listening on port 37003
+1604211841489	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 06:24:01.881: Failed to load module "colorreload-gtk-module"
+1604211852453	Marionette	INFO	Stopped listening on port 37003
+Gtk-Message: 06:24:13.934: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:24:14.378: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:24:14.460: Failed to load module "colorreload-gtk-module"
+
+(firefox:267337): dbind-WARNING **: 06:24:14.480: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604211854989	Marionette	INFO	Listening on port 34609
+1604211855105	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604211855234	Marionette	INFO	Stopped listening on port 34609
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.error: services.settings: 
+  main/cfr Signature failed  TypeError: NetworkError when attempting to fetch resource.
+Gtk-Message: 06:24:16.703: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:24:17.158: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:24:17.253: Failed to load module "colorreload-gtk-module"
+
+(firefox:267619): dbind-WARNING **: 06:24:17.256: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604211857739	Marionette	INFO	Listening on port 37721
+1604211857761	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 06:24:18.166: Failed to load module "colorreload-gtk-module"
+1604211858450	Marionette	INFO	Stopped listening on port 37721
+Gtk-Message: 06:24:19.905: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:24:20.346: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:24:20.455: Failed to load module "colorreload-gtk-module"
+
+(firefox:267912): dbind-WARNING **: 06:24:20.463: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604211860996	Marionette	INFO	Listening on port 44729
+1604211861062	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 06:24:21.356: Failed to load module "colorreload-gtk-module"
+1604211861707	Marionette	INFO	Stopped listening on port 44729
+Gtk-Message: 06:24:52.117: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:24:52.559: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:24:52.641: Failed to load module "colorreload-gtk-module"
+
+(firefox:268244): dbind-WARNING **: 06:24:52.661: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604211893167	Marionette	INFO	Listening on port 37427
+1604211893290	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 06:24:53.575: Failed to load module "colorreload-gtk-module"
+1604211904252	Marionette	INFO	Stopped listening on port 37427
+Gtk-Message: 06:25:05.738: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:25:06.180: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:25:06.264: Failed to load module "colorreload-gtk-module"
+
+(firefox:268549): dbind-WARNING **: 06:25:06.272: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604211906761	Marionette	INFO	Listening on port 42551
+1604211906814	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604211906921	Marionette	INFO	Stopped listening on port 42551
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+Gtk-Message: 06:25:08.387: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:25:08.845: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:25:08.936: Failed to load module "colorreload-gtk-module"
+
+(firefox:268807): dbind-WARNING **: 06:25:08.946: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604211909408	Marionette	INFO	Listening on port 46469
+1604211909456	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 06:25:09.851: Failed to load module "colorreload-gtk-module"
+1604211910089	Marionette	INFO	Stopped listening on port 46469
+Gtk-Message: 06:25:11.540: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:25:11.982: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:25:12.069: Failed to load module "colorreload-gtk-module"
+
+(firefox:269115): dbind-WARNING **: 06:25:12.086: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604211912541	Marionette	INFO	Listening on port 39833
+1604211912604	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 06:25:12.995: Failed to load module "colorreload-gtk-module"
+1604211913301	Marionette	INFO	Stopped listening on port 39833
+Gtk-Message: 06:28:10.443: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:28:10.900: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:28:10.981: Failed to load module "colorreload-gtk-module"
+
+(firefox:269480): dbind-WARNING **: 06:28:10.994: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604212091533	Marionette	INFO	Listening on port 42193
+1604212091602	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 06:28:11.896: Failed to load module "colorreload-gtk-module"
+1604212092834	Marionette	INFO	Stopped listening on port 42193
+Gtk-Message: 06:28:14.330: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:28:14.776: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:28:14.860: Failed to load module "colorreload-gtk-module"
+
+(firefox:269752): dbind-WARNING **: 06:28:14.866: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604212095353	Marionette	INFO	Listening on port 44485
+1604212095465	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604212095583	Marionette	INFO	Stopped listening on port 44485
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+Gtk-Message: 06:28:18.941: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:28:19.387: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:28:19.470: Failed to load module "colorreload-gtk-module"
+
+(firefox:270023): dbind-WARNING **: 06:28:19.482: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604212099991	Marionette	INFO	Listening on port 33543
+1604212100110	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 06:28:20.404: Failed to load module "colorreload-gtk-module"
+1604212100749	Marionette	INFO	Stopped listening on port 33543
+Gtk-Message: 06:28:22.219: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:28:22.666: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:28:22.748: Failed to load module "colorreload-gtk-module"
+
+(firefox:270301): dbind-WARNING **: 06:28:22.753: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604212103221	Marionette	INFO	Listening on port 36473
+1604212103263	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 271: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 06:28:23.661: Failed to load module "colorreload-gtk-module"
+1604212103941	Marionette	INFO	Stopped listening on port 36473
+Gtk-Message: 06:29:48.698: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:29:49.138: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:29:49.214: Failed to load module "colorreload-gtk-module"
+
+(firefox:270848): dbind-WARNING **: 06:29:49.236: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604212189725	Marionette	INFO	Listening on port 36617
+1604212189775	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 06:29:50.146: Failed to load module "colorreload-gtk-module"
+1604212190997	Marionette	INFO	Stopped listening on port 36617
+Gtk-Message: 06:29:52.469: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:29:52.909: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:29:53.008: Failed to load module "colorreload-gtk-module"
+
+(firefox:271161): dbind-WARNING **: 06:29:53.014: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604212193493	Marionette	INFO	Listening on port 41905
+1604212193550	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604212193677	Marionette	INFO	Stopped listening on port 41905
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+Gtk-Message: 06:29:55.170: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:29:55.620: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:29:55.699: Failed to load module "colorreload-gtk-module"
+
+(firefox:271443): dbind-WARNING **: 06:29:55.723: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604212196315	Marionette	INFO	Listening on port 43355
+1604212196404	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 06:29:56.618: Failed to load module "colorreload-gtk-module"
+1604212197068	Marionette	INFO	Stopped listening on port 43355
+Gtk-Message: 06:29:58.541: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:29:58.975: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:29:59.065: Failed to load module "colorreload-gtk-module"
+
+(firefox:271747): dbind-WARNING **: 06:29:59.073: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604212199630	Marionette	INFO	Listening on port 43581
+1604212199693	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 06:29:59.984: Failed to load module "colorreload-gtk-module"
+1604212200358	Marionette	INFO	Stopped listening on port 43581
+Gtk-Message: 06:32:02.575: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:32:03.003: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:32:03.101: Failed to load module "colorreload-gtk-module"
+
+(firefox:272190): dbind-WARNING **: 06:32:03.107: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604212323621	Marionette	INFO	Listening on port 35087
+1604212323730	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 06:32:04.014: Failed to load module "colorreload-gtk-module"
+1604212324989	Marionette	INFO	Stopped listening on port 35087
+Gtk-Message: 06:32:06.466: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:32:06.919: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:32:07.018: Failed to load module "colorreload-gtk-module"
+
+(firefox:272482): dbind-WARNING **: 06:32:07.027: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604212327518	Marionette	INFO	Listening on port 35059
+1604212327626	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604212327739	Marionette	INFO	Stopped listening on port 35059
+console.warn: services.settings: main/partitioning-exempt-urls sync interrupted by shutdown
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+Gtk-Message: 06:32:09.183: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:32:09.644: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:32:09.719: Failed to load module "colorreload-gtk-module"
+
+(firefox:272753): dbind-WARNING **: 06:32:09.740: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604212330367	Marionette	INFO	Listening on port 34271
+1604212330459	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 06:32:10.645: Failed to load module "colorreload-gtk-module"
+1604212331103	Marionette	INFO	Stopped listening on port 34271
+Gtk-Message: 06:32:12.565: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:32:13.012: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 06:32:13.110: Failed to load module "colorreload-gtk-module"
+
+(firefox:273057): dbind-WARNING **: 06:32:13.111: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604212333683	Marionette	INFO	Listening on port 46629
+1604212333732	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 06:32:14.027: Failed to load module "colorreload-gtk-module"
+1604212334383	Marionette	INFO	Stopped listening on port 46629
+Gtk-Message: 07:23:19.824: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 07:23:20.259: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 07:23:20.355: Failed to load module "colorreload-gtk-module"
+
+(firefox:276699): dbind-WARNING **: 07:23:20.364: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604215400873	Marionette	INFO	Listening on port 41393
+1604215400974	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 07:23:21.263: Failed to load module "colorreload-gtk-module"
+1604215401671	Marionette	INFO	Stopped listening on port 41393
+Gtk-Message: 07:23:23.142: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 07:23:23.586: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 07:23:23.671: Failed to load module "colorreload-gtk-module"
+
+(firefox:276993): dbind-WARNING **: 07:23:23.684: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604215404159	Marionette	INFO	Listening on port 46559
+1604215404210	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604215404321	Marionette	INFO	Stopped listening on port 46559
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+Gtk-Message: 07:23:25.697: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 07:23:26.135: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 07:23:26.220: Failed to load module "colorreload-gtk-module"
+
+(firefox:277267): dbind-WARNING **: 07:23:26.234: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604215406726	Marionette	INFO	Listening on port 42331
+1604215406761	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 07:23:27.151: Failed to load module "colorreload-gtk-module"
+1604215407389	Marionette	INFO	Stopped listening on port 42331
+Gtk-Message: 07:23:28.834: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 07:23:29.276: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 07:23:29.361: Failed to load module "colorreload-gtk-module"
+
+(firefox:277570): dbind-WARNING **: 07:23:29.377: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604215409846	Marionette	INFO	Listening on port 44423
+1604215409896	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 07:23:30.296: Failed to load module "colorreload-gtk-module"
+1604215410592	Marionette	INFO	Stopped listening on port 44423
+Gtk-Message: 07:25:13.733: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 07:25:14.189: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 07:25:14.256: Failed to load module "colorreload-gtk-module"
+
+(firefox:278103): dbind-WARNING **: 07:25:14.283: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604215514747	Marionette	INFO	Listening on port 38257
+1604215514797	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 07:25:15.200: Failed to load module "colorreload-gtk-module"
+1604215516081	Marionette	INFO	Stopped listening on port 38257
+Gtk-Message: 07:25:17.584: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 07:25:18.018: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 07:25:18.107: Failed to load module "colorreload-gtk-module"
+
+(firefox:278392): dbind-WARNING **: 07:25:18.119: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604215518557	Marionette	INFO	Listening on port 33365
+1604215518619	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 07:25:19.027: Failed to load module "colorreload-gtk-module"
+1604215519342	Marionette	INFO	Stopped listening on port 33365
+Gtk-Message: 07:25:20.714: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 07:25:21.142: Failed to load module "colorreload-gtk-module"
+
+(firefox:278666): dbind-WARNING **: 07:25:21.237: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+Gtk-Message: 07:25:21.241: Failed to load module "colorreload-gtk-module"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604215521693	Marionette	INFO	Listening on port 38821
+1604215521764	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 07:25:22.167: Failed to load module "colorreload-gtk-module"
+1604215522441	Marionette	INFO	Stopped listening on port 38821
+Gtk-Message: 07:25:23.873: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 07:25:24.322: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 07:25:24.412: Failed to load module "colorreload-gtk-module"
+
+(firefox:278956): dbind-WARNING **: 07:25:24.419: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604215524906	Marionette	INFO	Listening on port 41849
+1604215524944	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 07:25:25.330: Failed to load module "colorreload-gtk-module"
+1604215525692	Marionette	INFO	Stopped listening on port 41849
+Gtk-Message: 07:35:09.456: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 07:35:09.893: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 07:35:09.987: Failed to load module "colorreload-gtk-module"
+
+(firefox:279904): dbind-WARNING **: 07:35:09.997: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604216110508	Marionette	INFO	Listening on port 39309
+1604216110613	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 07:35:10.907: Failed to load module "colorreload-gtk-module"
+1604216111857	Marionette	INFO	Stopped listening on port 39309
+Gtk-Message: 07:35:13.326: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 07:35:13.768: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 07:35:13.841: Failed to load module "colorreload-gtk-module"
+
+(firefox:280219): dbind-WARNING **: 07:35:13.862: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604216114342	Marionette	INFO	Listening on port 45529
+1604216114387	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 07:35:14.777: Failed to load module "colorreload-gtk-module"
+1604216115073	Marionette	INFO	Stopped listening on port 45529
+Gtk-Message: 07:35:16.519: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 07:35:16.955: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 07:35:17.045: Failed to load module "colorreload-gtk-module"
+
+(firefox:280517): dbind-WARNING **: 07:35:17.055: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604216117539	Marionette	INFO	Listening on port 33293
+1604216117584	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 07:35:17.985: Failed to load module "colorreload-gtk-module"
+1604216118238	Marionette	INFO	Stopped listening on port 33293
+Gtk-Message: 07:35:19.676: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 07:35:20.112: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 07:35:20.203: Failed to load module "colorreload-gtk-module"
+
+(firefox:280820): dbind-WARNING **: 07:35:20.212: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604216120687	Marionette	INFO	Listening on port 45945
+1604216120741	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 07:35:21.119: Failed to load module "colorreload-gtk-module"
+1604216121475	Marionette	INFO	Stopped listening on port 45945
+Gtk-Message: 07:45:01.750: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 07:45:02.190: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 07:45:02.275: Failed to load module "colorreload-gtk-module"
+
+(firefox:281554): dbind-WARNING **: 07:45:02.299: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604216702781	Marionette	INFO	Listening on port 45899
+1604216702814	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 07:45:03.211: Failed to load module "colorreload-gtk-module"
+1604216704059	Marionette	INFO	Stopped listening on port 45899
+Gtk-Message: 07:45:05.509: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 07:45:05.940: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 07:45:06.006: Failed to load module "colorreload-gtk-module"
+
+(firefox:281861): dbind-WARNING **: 07:45:06.031: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604216706582	Marionette	INFO	Listening on port 35897
+1604216706682	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 07:45:06.953: Failed to load module "colorreload-gtk-module"
+1604216707375	Marionette	INFO	Stopped listening on port 35897
+Gtk-Message: 07:45:08.844: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 07:45:09.267: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 07:45:09.342: Failed to load module "colorreload-gtk-module"
+
+(firefox:282154): dbind-WARNING **: 07:45:09.366: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604216709937	Marionette	INFO	Listening on port 42509
+1604216710014	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 07:45:10.284: Failed to load module "colorreload-gtk-module"
+1604216710725	Marionette	INFO	Stopped listening on port 42509
+Gtk-Message: 07:45:12.178: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 07:45:12.616: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 07:45:12.692: Failed to load module "colorreload-gtk-module"
+
+(firefox:282447): dbind-WARNING **: 07:45:12.710: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604216713300	Marionette	INFO	Listening on port 45067
+1604216713332	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 235: Error: Invalid autocomplete selectedIndex
+Gtk-Message: 07:45:13.640: Failed to load module "colorreload-gtk-module"
+1604216714035	Marionette	INFO	Stopped listening on port 45067
+Gtk-Message: 07:46:08.332: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 07:46:08.760: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 07:46:08.835: Failed to load module "colorreload-gtk-module"
+
+(firefox:282851): dbind-WARNING **: 07:46:08.860: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604216769333	Marionette	INFO	Listening on port 40385
+1604216769395	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604216769565	Marionette	INFO	Stopped listening on port 40385
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+Gtk-Message: 07:46:10.934: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 07:46:11.369: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 07:46:11.473: Failed to load module "colorreload-gtk-module"
+
+(firefox:283119): dbind-WARNING **: 07:46:11.478: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604216771945	Marionette	INFO	Listening on port 46465
+1604216772007	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604216772125	Marionette	INFO	Stopped listening on port 46465
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+Gtk-Message: 07:46:13.576: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 07:46:14.018: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 07:46:14.110: Failed to load module "colorreload-gtk-module"
+
+(firefox:283382): dbind-WARNING **: 07:46:14.115: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604216774604	Marionette	INFO	Listening on port 33151
+1604216774637	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604216774745	Marionette	INFO	Stopped listening on port 33151
+console.warn: services.settings: main/cfr sync interrupted by shutdown
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+Gtk-Message: 08:12:52.316: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 08:12:52.752: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 08:12:52.839: Failed to load module "colorreload-gtk-module"
+
+(firefox:284547): dbind-WARNING **: 08:12:52.861: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604218373317	Marionette	INFO	Listening on port 33657
+1604218373374	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604218373453	Marionette	INFO	Stopped listening on port 33657
+console.error: services.settings: 
+  main/cfr-fxa Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+Gtk-Message: 08:12:54.906: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 08:12:55.356: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 08:12:55.421: Failed to load module "colorreload-gtk-module"
+
+(firefox:284818): dbind-WARNING **: 08:12:55.440: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604218375929	Marionette	INFO	Listening on port 38889
+1604218375964	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604218376063	Marionette	INFO	Stopped listening on port 38889
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
+console.error: services.settings: 
+  main/partitioning-exempt-urls Signature failed  TypeError: NetworkError when attempting to fetch resource.
+Gtk-Message: 08:12:57.527: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 08:12:57.961: Failed to load module "colorreload-gtk-module"
+Gtk-Message: 08:12:58.054: Failed to load module "colorreload-gtk-module"
+
+(firefox:285072): dbind-WARNING **: 08:12:58.061: Couldn't register with accessibility bus: Did not receive a reply. Possible causes include: the remote application did not send a reply, the message bus security policy blocked the reply, the reply timeout expired, or the network connection was broken.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1604218378520	Marionette	INFO	Listening on port 40091
+1604218378582	Marionette	WARN	TLS certificate errors will be ignored for this session
+1604218378670	Marionette	INFO	Stopped listening on port 40091
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 351))
