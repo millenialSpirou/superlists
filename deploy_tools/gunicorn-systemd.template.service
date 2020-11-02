@@ -1,0 +1,13 @@
+[Unit]
+Description=Gunicon server for SITENAME
+
+[Service]
+Restart=on-failure
+User=fredericb
+WorkingDirectory=/home/fredericb/sites/SITENAME/source
+ExecStart=/home/fredericb/sites/SITENAME/virtualenv/bin/gunicorn \
+    --bind uni:/tmp/SITENAME.socket
+    superlists.wsgi:application
+
+[Install]
+WantedBy=multi-user.target
